@@ -1,0 +1,9 @@
+.dose-form {
+    min-width: 150px;
+    max-width: 500px;
+    width: 100%;
+  }
+  
+  .dose-input-width {
+    width: 50%;
+  }
